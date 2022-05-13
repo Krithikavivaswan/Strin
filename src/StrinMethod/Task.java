@@ -2,7 +2,7 @@ package StrinMethod;
 
 public class Task {
 	public static void main(String[] args) {
-
+//For GIT branch update testing
 		String s1 = "GreensTechnology";
 		String s2 = "SeleniumAutomationtool";
 		String s3 = "velmurugan";
