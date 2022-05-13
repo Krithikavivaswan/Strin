@@ -1,5 +1,6 @@
 package StrinMethod;
 
+// 2nd testing for GIT branch
 public class SamStrin {
 	public static void main(String[] args) {
 		String s= "Java Programming";
